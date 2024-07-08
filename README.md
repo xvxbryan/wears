@@ -8,3 +8,6 @@ Wears uses Authorize.net and Stripe to handle payment and bank transfers.
 Asside from creating the member side, I also created the employee dashboard where we can handle things such as New Orders, Order Status, Rental Debrief/Maintenace, Publish Products, Error Log, and more.
 
 I cannot provide the source code as Wears is a privately owned company and the code is not open-source but I am more than willing to demo any portion of the member side.
+
+Homepage
+![wears](https://github.com/xvxbryan/wears/assets/31249606/2b22ebfd-6584-44fe-b53e-2ccb7886574e)
