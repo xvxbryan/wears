@@ -19,10 +19,21 @@ __Homepage__
 ![wearshp6](https://github.com/xvxbryan/wears/assets/31249606/ea9efc35-ed13-480b-9d6d-56f8102f3bfe)
 
 __Physi Market__
+
+_Select a product you would like you rent._
 ![physi](https://github.com/xvxbryan/wears/assets/31249606/56755510-eb17-4d57-bded-0f18a1a04293)
 
+![wearsprod](https://github.com/xvxbryan/wears/assets/31249606/ff9159b1-f225-462c-9808-53ff8fb99c72)
+
+![prices](https://github.com/xvxbryan/wears/assets/31249606/a4178dfa-c0f0-4741-8289-0df37d311d98)
+
+
+
 __Digi Market__
+
 ![digi](https://github.com/xvxbryan/wears/assets/31249606/54a1279f-99aa-4ea4-8022-d300b1077888)
 
 __Wanted Market__
+
 ![wanted](https://github.com/xvxbryan/wears/assets/31249606/e6db40d1-eb6d-4262-b2de-f456cb9fa7bb)
+
