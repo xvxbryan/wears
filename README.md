@@ -31,7 +31,8 @@ _or you can place an Offer on how much you would like to rent the item out for i
 _Select dropdown to view prices based on your rank for 4 Day Rental and 8 Day Rental._
 ![prices](https://github.com/xvxbryan/wears/assets/31249606/a4178dfa-c0f0-4741-8289-0df37d311d98)
 
-
+__Checkout__
+![checkout](https://github.com/xvxbryan/wears/assets/31249606/64e4ada8-0962-4052-8bc0-ec7c0c963a61)
 
 
 __Digi Market__
