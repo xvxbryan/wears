@@ -34,9 +34,16 @@ _Select dropdown to view prices based on your rank for 4 Day Rental and 8 Day Re
 
 __Digi Market__
 
+_Select a Digi you would like to purchase using SOL_
 ![digi](https://github.com/xvxbryan/wears/assets/31249606/54a1279f-99aa-4ea4-8022-d300b1077888)
+
+![digiasset](https://github.com/xvxbryan/wears/assets/31249606/e4ec225f-7f82-4f44-8055-ab2cc29aee0d)
+
 
 __Wanted Market__
 
+_Select Wanted Listing you would like to fulfill._
 ![wanted](https://github.com/xvxbryan/wears/assets/31249606/e6db40d1-eb6d-4262-b2de-f456cb9fa7bb)
 
+_Or create a listing for a product you would like to experience._
+![createlisting](https://github.com/xvxbryan/wears/assets/31249606/046e9a4f-5197-4557-bfba-b60346cedd5f)
