@@ -1,5 +1,5 @@
 Wears
-
+<span style="font-size:20px;">This is 20px text.</span>
 https://www.enjoywears.com/
 
 I am the Senior Engineer at Wears, a Start Up company I helped start in 2020 and has had my full time commitment ever since. Wears is a sneaker rental community dedicated to revolutionizing the sneaker industry by making high-quality sneakers accessible without the high costs.
