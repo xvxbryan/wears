@@ -47,3 +47,14 @@ _Select Wanted Listing you would like to fulfill._
 
 _Or create a listing for a product you would like to experience._
 ![createlisting](https://github.com/xvxbryan/wears/assets/31249606/fa01ab88-b941-498b-8478-781868435383)
+
+_Join and Login_
+![join](https://github.com/xvxbryan/wears/assets/31249606/6dae2cc4-b426-418a-902c-1e8db1640b2b)
+![login](https://github.com/xvxbryan/wears/assets/31249606/458b1c9e-b65f-4c96-9c42-89b78b42d558)
+
+_Wears Premium_
+![premium](https://github.com/xvxbryan/wears/assets/31249606/78709619-614b-4cbb-9859-a7d6ece94c3c)
+
+_Profile View_
+![profile1](https://github.com/xvxbryan/wears/assets/31249606/ea749639-715d-41b7-8bb1-1fc9f19027c1)
+![profile2](https://github.com/xvxbryan/wears/assets/31249606/f150f03b-01e6-4779-84ec-f2c73e8b2c53)
