@@ -23,8 +23,11 @@ __Physi Market__
 _Select a product you would like you rent._
 ![physi](https://github.com/xvxbryan/wears/assets/31249606/56755510-eb17-4d57-bded-0f18a1a04293)
 
+_Add item to cart and either proceed to checkout or continue shopping._
+_Or you can place an Offer on how much you would like to rent the item out for instead and wair for approval._
 ![wearsprod](https://github.com/xvxbryan/wears/assets/31249606/ff9159b1-f225-462c-9808-53ff8fb99c72)
 
+_Select dropdown to view prices based on your rank for 4 Day Rental and 8 Day Rental._
 ![prices](https://github.com/xvxbryan/wears/assets/31249606/a4178dfa-c0f0-4741-8289-0df37d311d98)
 
 
